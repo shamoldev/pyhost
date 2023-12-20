@@ -7,7 +7,7 @@ import pytz
 import subprocess
 
 from datetime import datetime
-bot = telebot.TeleBot("6061205863:AAENzg_0e6vbQQusIlEJ-oxS7p7h705tUDc",parse_mode='html')
+bot = telebot.TeleBot("6403740236:AAGcluOHSSIjYlIsH5BHkzdVRKeQzh4rzD4",parse_mode='html')
 
 
 conn = sqlite3.connect('database.db',check_same_thread=False,isolation_level=None)
